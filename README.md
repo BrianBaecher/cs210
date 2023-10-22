@@ -1,9 +1,11 @@
 # cs210
 
 -- Summarize the project and what problem it was solving.
+
 Grocery Tracker application that analyzes text files that represent the items purchased at a hypothetical grocery store. The program allows for the user to get an accurate report on the frequency at which certain items are purchased - allowing the grocer to better understand their operation and make more informed stocking/general business decisions.
 
 -- What did you do particularly well?
+
 I think the way I aligned the histogram was OK. The program goes through the keys within the GroceryTracker class' map and uses the longest key length (strings) to set the width/format the output.
 
 -- Where could you enhance your code?
